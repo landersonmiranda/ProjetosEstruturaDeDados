@@ -66,8 +66,3 @@ Assim como no primeiro projeto, as listas não são implementadas separadamente 
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, basta fazer um fork do repositório, realizar suas alterações e enviar um pull request.
 
----
-
-## Licença
-
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
