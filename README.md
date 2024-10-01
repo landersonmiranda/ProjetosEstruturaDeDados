@@ -17,11 +17,6 @@ Além disso, uma quarta lista conecta todos os nós das palavras em ordem alfab�
 - **Entrada**: Conjunto de comandos para executar.
 - **Saída**: Resultados das operações realizadas.
 
-### Funcionamento
-
-1. As palavras são lidas e armazenadas nas respectivas listas base.
-2. As listas são mantidas em ordem alfabética.
-3. A lista adicional conecta todos os nós de maneira ordenada.
 ---
 
 ![image](https://github.com/user-attachments/assets/0a59aff8-a8cc-44bc-9467-d9cc0df98082)
@@ -47,15 +42,6 @@ Assim como no primeiro projeto, as listas não são implementadas separadamente 
 1. As palavras são inseridas na árvore, seguindo a ordem alfabética.
 2. Cada nó da árvore armazena uma palavra como chave e possui apontadores para seus filhos e para o próximo elemento da lista à qual a palavra pertence.
 3. As listas são mantidas em ordem alfabética.
-
----
-
-## Instruções de Uso
-
-1. Clone o repositório em sua máquina local.
-2. Navegue até a pasta do projeto desejado.
-3. Execute o programa e forneça os comandos na entrada padrão.
-4. Os resultados serão exibidos na saída padrão.
 
 ---
 
