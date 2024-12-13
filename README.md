@@ -19,7 +19,7 @@ Além disso, uma quarta lista conecta todos os nós das palavras em ordem alfab�
 
 ---
 
-![image](https://github.com/user-attachments/assets/0a59aff8-a8cc-44bc-9467-d9cc0df98082)
+![image](https://github.com/user-attachments/assets/12fb79b9-7a4a-4a69-9c27-edaf9af9c81e)
 
 ---
 
@@ -45,7 +45,7 @@ Assim como no primeiro projeto, as listas não são implementadas separadamente 
 
 ---
 
-![image](https://github.com/user-attachments/assets/12fb79b9-7a4a-4a69-9c27-edaf9af9c81e)
+![image](https://github.com/user-attachments/assets/0a59aff8-a8cc-44bc-9467-d9cc0df98082)
 
 ---
 ## Contribuições
